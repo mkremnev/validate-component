@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="app-calc" />
+    <orderEntry type="module" module-name="react-js-tutorial" />
+    <orderEntry type="module" module-name="zarproject" />
   </component>
 </module>

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app-calc/.idea/app-calc.iml" filepath="$PROJECT_DIR$/../app-calc/.idea/app-calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../otus/react-js-tutorial/.idea/react-js-tutorial.iml" filepath="$PROJECT_DIR$/../../otus/react-js-tutorial/.idea/react-js-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/validate-component.iml" filepath="$PROJECT_DIR$/.idea/validate-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zarproject/.idea/zarproject.iml" filepath="$PROJECT_DIR$/../zarproject/.idea/zarproject.iml" />
     </modules>
   </component>
 </project>
